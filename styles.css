@@ -1,0 +1,61 @@
+body{
+    background-color:lightgreen;
+    width:auto;
+    height:auto;
+}
+
+div{
+    height:auto;
+
+}
+div{
+    width:auto;
+}
+.boader{
+    border:20px solid black;
+    
+}
+.margin{
+    margin:160px;
+
+}
+.padding{
+    padding:8px,8px,8px,8px;
+
+}
+.boldline{
+    width: 500px;
+  height: 4px;
+  background-color: black;
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.2);
+}
+.clgimg{
+    width: 130px;
+    height: 130px;
+}
+.schoolimg{
+    width:200px;
+    height:150px;
+}
+.chait{
+    width:200px;
+    height:180px;
+}
+.logo{
+    width: 50px;
+    height:50px;
+}
+.apps{
+    padding:100px;
+    display:-webkit-inline-flex;
+  justify-content: space-around;
+   
+    width: 40px;
+    height:40px;
+}
+.projectimg{
+    width:70px;
+    height:70px;
+}   
+
+
